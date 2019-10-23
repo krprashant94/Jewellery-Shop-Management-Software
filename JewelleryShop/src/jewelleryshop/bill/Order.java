@@ -5,7 +5,6 @@
  */
 package jewelleryshop.bill;
 
-import com.sun.javafx.scene.traversal.WeightedClosestCorner;
 import java.sql.Date;
 import java.text.SimpleDateFormat;
 import javax.swing.DefaultListModel;
